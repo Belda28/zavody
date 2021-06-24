@@ -1,0 +1,20 @@
+C:\Users\belic\Desktop\zavody\fishing competitions\fishing competitions\bin\Debug\fishing competitions.exe.config
+C:\Users\belic\Desktop\zavody\fishing competitions\fishing competitions\bin\Debug\fishing competitions.exe
+C:\Users\belic\Desktop\zavody\fishing competitions\fishing competitions\bin\Debug\fishing competitions.pdb
+C:\Users\belic\Desktop\zavody\fishing competitions\fishing competitions\obj\Debug\fishing competitions.csprojAssemblyReference.cache
+C:\Users\belic\Desktop\zavody\fishing competitions\fishing competitions\obj\Debug\fishing_competitions.Form1.resources
+C:\Users\belic\Desktop\zavody\fishing competitions\fishing competitions\obj\Debug\fishing_competitions.Properties.Resources.resources
+C:\Users\belic\Desktop\zavody\fishing competitions\fishing competitions\obj\Debug\fishing competitions.csproj.GenerateResource.cache
+C:\Users\belic\Desktop\zavody\fishing competitions\fishing competitions\obj\Debug\fishing competitions.csproj.CoreCompileInputs.cache
+C:\Users\belic\Desktop\zavody\fishing competitions\fishing competitions\obj\Debug\fishing competitions.exe
+C:\Users\belic\Desktop\zavody\fishing competitions\fishing competitions\obj\Debug\fishing competitions.pdb
+C:\Users\belic\Desktop\zaloha\fishing competitions\fishing competitions\bin\Debug\fishing competitions.exe.config
+C:\Users\belic\Desktop\zaloha\fishing competitions\fishing competitions\bin\Debug\fishing competitions.exe
+C:\Users\belic\Desktop\zaloha\fishing competitions\fishing competitions\bin\Debug\fishing competitions.pdb
+C:\Users\belic\Desktop\zaloha\fishing competitions\fishing competitions\obj\Debug\fishing competitions.csprojAssemblyReference.cache
+C:\Users\belic\Desktop\zaloha\fishing competitions\fishing competitions\obj\Debug\fishing_competitions.Form1.resources
+C:\Users\belic\Desktop\zaloha\fishing competitions\fishing competitions\obj\Debug\fishing_competitions.Properties.Resources.resources
+C:\Users\belic\Desktop\zaloha\fishing competitions\fishing competitions\obj\Debug\fishing competitions.csproj.GenerateResource.cache
+C:\Users\belic\Desktop\zaloha\fishing competitions\fishing competitions\obj\Debug\fishing competitions.csproj.CoreCompileInputs.cache
+C:\Users\belic\Desktop\zaloha\fishing competitions\fishing competitions\obj\Debug\fishing competitions.exe
+C:\Users\belic\Desktop\zaloha\fishing competitions\fishing competitions\obj\Debug\fishing competitions.pdb
